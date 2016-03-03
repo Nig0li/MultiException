@@ -6,7 +6,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Nig0li\\": "MultiException/"
+      "MultiException\\": "MultiException/"
     }
   }
 }
